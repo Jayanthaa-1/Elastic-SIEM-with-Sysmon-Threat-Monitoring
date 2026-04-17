@@ -1,7 +1,5 @@
 # Elastic-SIEM-with-Sysmon-Threat-Monitoring
 
-# Elastic SIEM with Sysmon Threat Monitoring (Windows VM Lab)
-
 ## Project Overview
 This project demonstrates the implementation of a centralized Security Information and Event Management (SIEM) solution using the Elastic Stack integrated with Sysmon for advanced Windows endpoint monitoring.
 
